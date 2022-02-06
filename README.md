@@ -1,16 +1,13 @@
-# wordpair_generator
+# App Pulp
+### A basic catalog items app.
+- Add items to cart
+- State management using VelocityX State
 
-A new Flutter project.
 
-## Getting Started
+#### Requirement for running app
+- Android studio setup
+- Flutter setup
+- After cloning, start app either with debug mode or run 
+flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	![alt text](https://res.cloudinary.com/eraaxit-galaxywhale/image/upload/v1644151500/personal/deviceframes_mkuef1.png)
