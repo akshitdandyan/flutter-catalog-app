@@ -8,6 +8,8 @@
 - Android studio setup
 - Flutter setup
 - After cloning, start app either with debug mode or run 
-flutter
+```
+flutter run -d [your-device-ip:port]
+```
 
 	![alt text](https://res.cloudinary.com/eraaxit-galaxywhale/image/upload/v1644151500/personal/deviceframes_mkuef1.png)
